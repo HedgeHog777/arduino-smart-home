@@ -25,8 +25,8 @@ The system was developed as part of my Bachelor's degree.
 - Arduino
 - Sensors
 - Relays
-- LCD Display (якщо був)
-- ESP8266 (якщо був)
+- LCD Display
+- ESP8266 
 
 ## Software
 
